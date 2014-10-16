@@ -1,0 +1,3 @@
+Example Rails app for GIT trainin
+ adding new text
+g
